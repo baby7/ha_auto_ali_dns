@@ -1,0 +1,12 @@
+{
+  "domain": "ha_auto_ali_dns",
+  "name": "ha_auto_ali_dns",
+  "requirements": [
+    "requests",
+    "alibabacloud_alidns20150109==2.0.2",
+    "alibabacloud-tea-console==0.0.1"
+  ],
+  "codeowners": [],
+  "dependencies": [],
+  "version": "1.0"
+}
